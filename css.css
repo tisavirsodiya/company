@@ -1,0 +1,22 @@
+.best_choice
+{
+    position:top;
+    background-color: rgb(195, 240, 240);
+    border-radius: 0% 0% 50% 50%;
+    font-size:70px;
+    text-align:center;
+    color:white;
+    width:25%;
+    height: 10%;
+    margin-left:65%;
+    padding:25px;
+    margin-top:-30px;
+}
+.img
+{
+    background-image:url("main_img.jpeg");
+    width: 1250px;
+    height: 700px;
+}
+
+
