@@ -1,22 +1,86 @@
-.best_choice
-{
-    position:top;
-    background-color: rgb(195, 240, 240);
-    border-radius: 0% 0% 50% 50%;
-    font-size:70px;
-    text-align:center;
-    color:white;
-    width:25%;
-    height: 10%;
-    margin-left:65%;
-    padding:25px;
-    margin-top:-30px;
+.maindiv {
+    position: relative;
 }
-.img
+.box{
+    background-color:rgba(64, 104,101,255);
+    border-radius: 0% 0% 50% 50%;
+    text-align:center;
+    width:200px;
+    height:180px;
+    font-size:25px;
+    color:white;
+    padding:25px;
+    margin-top:-50px;
+    margin-left:55%;
+    position: absolute;
+    opacity: 0.8;
+}
+.aboutus
 {
-    background-image:url("main_img.jpeg");
-    width: 1250px;
-    height: 700px;
+    background-color:seagreen;
+    font-size:10px;
+    text-align:left;
+    color:white;
+    text-align:center;
+    padding-left:50px;
+    padding-right: 12px;
+    padding-top:5px;
+    padding-bottom:5px;
+    margin-left:855px;
+    margin-right:199px;
+    margin-top:0px;
+
+}
+.contactus
+{
+    background-color:orangered;
+    font-size:10px;
+    text-align:left;
+    color:white;
+    text-align:center;
+    padding-left:50px;
+    padding-right: 12px;
+    padding-top:5px;
+    padding-bottom:5px;
+    margin-left:855px;
+    margin-right:199px;
+    margin-top:0px;  
 }
 
+.website
+{
+    background-color:skyblue;
+    font-size:10px;
+    text-align:left;
+    color:white;
+    text-align:center;
+    padding-left:50px;
+    padding-right: 12px;
+    padding-top:5px;
+    padding-bottom:5px;
+    margin-left:855px;
+    margin-right:199px;
+    margin-top:0px;  
+}
+.ourservices
+{
+    color:seagreen;
+    font-size:large;
+    text-align:center;
+    padding-right:100px;
+    
+}
+.first
+{
+    color:black;
+    font-size:small;
+    text-align:left;
+     padding-left:50px;
+    padding-right: 12px;
+    padding-top:5px;
+    padding-bottom:5px;
+    margin-left:855px;
+    margin-right:199px;
+    margin-top:0px; 
+}
 
